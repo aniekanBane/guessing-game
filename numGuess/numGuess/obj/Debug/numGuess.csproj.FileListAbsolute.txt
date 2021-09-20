@@ -1,0 +1,6 @@
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/bin/Debug/numGuess.exe
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/bin/Debug/numGuess.pdb
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/obj/Debug/numGuess.csproj.AssemblyReference.cache
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/obj/Debug/numGuess.csproj.CoreCompileInputs.cache
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/obj/Debug/numGuess.exe
+/Users/aniekan/Projects/c programs/C#/numGuess/numGuess/obj/Debug/numGuess.pdb
